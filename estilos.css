@@ -1,0 +1,39 @@
+body{
+	text-align: center;
+	font-family: "Arial";
+}
+
+
+.container, .otrodiv {
+	width: 50%;
+	border: 2px solid #000;
+	margin: 0 auto;
+}
+.cabecera {
+	background: blue;
+	box-shadow: 0 8px 2px 3px  #000;
+	height: 30px;
+	text-align: left	;
+}
+
+span{
+	color: #fff;
+	font-size: 18px;
+	margin-left: 10px;
+	
+}
+
+.titulo{
+	font-size: 24px;
+	color: green;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.parrafo{
+	font-size: 15px;
+	color: blue;
+	text-align: left;
+	margin-left: 10px;
+}
